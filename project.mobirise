@@ -158,7 +158,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Desarrollamos sú</span>&nbsp;Página Web<br><span style=\"font-weight: normal;\">desde</span>&nbsp;€290 <span style=\"font-weight: normal;\">y</span>&nbsp;<span style=\"font-weight: normal;\">en sólo</span> 48 Horas",
           "text": "Nada mejor que dar a conocer nuestros servicios y la pasión con la que trabajamos para lograr resultados de calidad.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#contacts3-9\" data-toolbar=\"-mbrBtnMove\">LO QUIERO</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">LO QUIERO</a>",
           "_tags": [
             "Tema"
           ],
