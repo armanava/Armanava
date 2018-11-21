@@ -576,3 +576,12 @@ h6,
 #features3-7 P {
   color: #8e8e8e;
 }
+#contacts3-9 P {
+  color: #acacac;
+}
+#contacts3-9 .list-group-text {
+  color: #acacac;
+}
+#contacts3-9 LI {
+  color: #efefef;
+}

@@ -25,7 +25,8 @@
         "#8dc63f",
         "#8e8e8e",
         "#2e2e2e",
-        "#282828"
+        "#282828",
+        "#acacac"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -35,7 +36,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 10,
+    "uniqCompNum": 11,
     "versionPublish": "4.8.6"
   },
   "pages": {
@@ -721,8 +722,8 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -781,7 +782,7 @@
           "text1": "Entregamos un proyecto de máxima calidad dándole a su empresa imagen corporativa y confianza a sus clientes.",
           "text2": "+34 698 70 18 28<br>+34 651 680 974",
           "text3": "Dos Hermanas, Sevilla, 41702",
-          "text4": "comuni<a href=\"mailto:comunicacion@armanava.com\">cacion@ar</a>manava.com",
+          "text4": "<a href=\"mailto:comunicacion@armanava.com\">comunicacion@armanava.com</a>",
           "text5": "<li><a class=\"text-white\" href=\"#top\">H</a>ome</li><li><a class=\"text-white\" href=\"index.html#features7-4\">S</a>ervicios</li><li><a class=\"text-white\" href=\"index.html#pricing-table2-3\">P</a>lanes</li><li><a class=\"text-white\" href=\"index.html#header3-6\">P</a>ortfolio</li><li><a class=\"text-white\" href=\"index.html#features3-7\">P</a>rocedimiento</li>",
           "text6": "<strong>Contacto</strong><br>Email: comunicacion@armanava.com<br>Teléfonos: +34 698 70 18 28<br>+34 651 680 974<br><br>",
           "form": {
@@ -816,7 +817,18 @@
             "Tema"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-9"
+          "_anchor": "contacts3-9",
+          "_styles": {
+            "P": {
+              "color": "#acacac"
+            },
+            ".list-group-text": {
+              "color": "#acacac"
+            },
+            "LI": {
+              "color": "#efefef"
+            }
+          }
         }
       ]
     }
