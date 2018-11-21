@@ -448,7 +448,7 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": "5",
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
@@ -466,7 +466,7 @@
             "fullWidth": false,
             "spacing": "0",
             "paddingTop": 0,
-            "paddingBottom": "4",
+            "paddingBottom": "3",
             "filterBgColor": false,
             "bgColor": "#FFFFFF",
             "showText": true,
@@ -586,7 +586,7 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": "3",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
