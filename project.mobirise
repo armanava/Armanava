@@ -156,8 +156,8 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.6"
           },
-          "title": "<span style=\"font-weight: normal;\">Desarrollamos sú</span>&nbsp;Página Web<br><span style=\"font-weight: normal;\">desde</span> €290 <span style=\"font-weight: normal;\">y</span>&nbsp;<span style=\"font-weight: normal;\">en</span>&nbsp;<span style=\"font-weight: normal;\">sólo</span> 48 Horas",
-          "text": "Nada mejor que dar a conocer nuestros servicios con la pasión que trabajamos para lograr rápidos resultados con calidad, pórque hacemos diseños que venden!",
+          "title": "<span style=\"font-weight: normal;\">Desarrollamos sú</span>&nbsp;Página Web<br><span style=\"font-weight: normal;\">desde</span> €290 <span style=\"font-weight: normal;\">y</span>&nbsp;<span style=\"font-weight: normal;\">en</span> 48 Horas",
+          "text": "Nada mejor que dar a conocer nuestros servicios y la pasión con la que trabajamos para lograr resultados de calidad.",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#contacts3-9\" data-toolbar=\"-mbrBtnMove\">LO QUIERO</a>",
           "_tags": [
             "Tema"
@@ -644,13 +644,10 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
+              "active": true
             }
           },
           "media4": {
