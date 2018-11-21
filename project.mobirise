@@ -349,7 +349,8 @@
               "color": "#484848"
             },
             ".mbr-price-value": {
-              "color": "#484848"
+              "color": "#484848",
+              "text-align": "center"
             },
             ".mbr-price-figure": {
               "color": "#484848"
@@ -388,7 +389,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "description1": "<b>en 48 horas</b><br>Diseño Web Responsive<b><br></b>",
+          "description1": "<b>en 48 horas!</b><b><br></b>",
           "description2": "Diseño Web Responsive",
           "description3": "Diseño Web Responsive",
           "description4": "More details",
@@ -413,7 +414,7 @@
           "label2": "HOT!",
           "label3": "HOT!",
           "label4": "HOT!",
-          "currency1": "€",
+          "currency1": "<b>€</b>",
           "currency2": "€",
           "currency3": "€",
           "currency4": "$",
@@ -421,7 +422,7 @@
           "price2": "450",
           "price3": "680",
           "price4": "0",
-          "period1": ",00",
+          "period1": "<b>,00</b>",
           "period2": ",00",
           "period3": ",00",
           "period4": "/mo.",
