@@ -64,7 +64,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-4\">SERVICIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-3\">PLANES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-6\">PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-8\">PROCEDIMIENTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-9\">CONTACTO</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-4\">SERVICIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-3\">PLANES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-6\">PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-8\">PROCEDIMIENTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">CONTACTO</a></li>",
           "_tags": [
             "Tema"
           ],
@@ -392,10 +392,10 @@
           "description2": "Diseño Web Responsive",
           "description3": "Diseño Web Responsive",
           "description4": "More details",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">ME INTERESA</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"#bottom\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">ME INTERESA</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">ME INTERESA</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">ME INTERESA</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"#bottom\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">ME INTERESA</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"#bottom\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">ME INTERESA</a>",
           "_tags": [
             "Tema"
           ],
@@ -417,7 +417,7 @@
           "currency2": "€",
           "currency3": "€",
           "currency4": "$",
-          "price1": "290",
+          "price1": "<b>290</b>",
           "price2": "450",
           "price3": "680",
           "price4": "0",
