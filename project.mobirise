@@ -156,7 +156,7 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.6"
           },
-          "title": "<span style=\"font-weight: normal;\">Desarrollamos sú</span>&nbsp;Página Web<br><span style=\"font-weight: normal;\">desde</span> €290 <span style=\"font-weight: normal;\">y</span>&nbsp;<span style=\"font-weight: normal;\">en</span> 48 Horas",
+          "title": "<span style=\"font-weight: normal;\">Desarrollamos sú</span>&nbsp;Página Web<br><span style=\"font-weight: normal;\">desde</span> €290 <span style=\"font-weight: normal;\">y</span>&nbsp;<span style=\"font-weight: normal;\">en sólo</span> 48 Horas",
           "text": "Nada mejor que dar a conocer nuestros servicios y la pasión con la que trabajamos para lograr resultados de calidad.",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#contacts3-9\" data-toolbar=\"-mbrBtnMove\">LO QUIERO</a>",
           "_tags": [
@@ -166,7 +166,7 @@
           "_anchor": "header1-1",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "36px",
+              "font-size": "32px",
               "color": "#efefef",
               "text-align": "left"
             },
@@ -176,7 +176,7 @@
               "text-align": "left"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "36px",
+              "font-size": "32px",
               "color": "#efefef"
             }
           }
