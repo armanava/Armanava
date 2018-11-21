@@ -166,7 +166,7 @@
           "_anchor": "header1-1",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "32px",
+              "font-size": "30px",
               "color": "#efefef",
               "text-align": "left"
             },
@@ -176,7 +176,7 @@
               "text-align": "left"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "32px",
+              "font-size": "30px",
               "color": "#efefef"
             }
           }
