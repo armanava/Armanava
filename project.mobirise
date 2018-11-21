@@ -120,12 +120,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/armanavalogo1-522x128.png",
+              "src": "@PROJECT_PATH@/assets/images/armanavalogo2-523x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "#top",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -735,14 +734,13 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/armanavalogo1-265x65.png",
+              "src": "@PROJECT_PATH@/assets/images/armanavalogo2-265x65.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
               "link": "#top",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
