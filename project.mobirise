@@ -22,11 +22,7 @@
       },
       "additionalSetColors": [
         "#484848",
-        "#8dc63f",
-        "#8e8e8e",
-        "#2e2e2e",
-        "#282828",
-        "#acacac"
+        "#8dc63f"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -36,8 +32,9 @@
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 11,
-    "versionPublish": "4.8.6"
+    "uniqCompNum": 12,
+    "versionPublish": "4.8.6",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -114,7 +111,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#8dc63f!important"
+              "color": "#c0a375!important"
             }
           },
           "logo": {
@@ -182,22 +179,20 @@
           }
         },
         {
-          "_inherit": "features4",
           "_params": {
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false,
-            "iconsBgColor": "#8dc63f",
-            "paddingTop": 2,
+            "paddingTop": "1",
             "paddingBottom": 2,
             "columns": 4,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -207,119 +202,105 @@
             "overlayOpacity": 0.5
           },
           "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "responsive",
-              "family": "MobiriseIcons",
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/web-icono-600x428.jpg",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff"
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "wifi",
-              "family": "MobiriseIcons",
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/socialmediaicono-600x428.jpg",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff"
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "website-theme",
-              "family": "MobiriseIcons",
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/disenoicono-600x428.jpg",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff"
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "touch",
-              "family": "MobiriseIcons",
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/apps-icono-600x428.jpg",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff"
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
             }
           },
           "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "_tags": [
-            "Tema"
-          ],
-          "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "#8dc63f",
-              "border-color": "#8dc63f"
-            },
-            "H4": {
-              "color": "#8e8e8e"
-            },
-            "P": {
-              "color": "#8e8e8e"
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
             }
           },
           "title1": "Desarrollo WEB",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Nos especializamos en desarrollar páginas web <b>100 % responsive adaptadas a todos los dispositivos. </b>Desarrollamos webs  amigables, frescas y fáciles de utilizar  mejorando la interacción con el usuario,",
+          "caption1": "Nos especializamos en desarrollar páginas web <b>100% responsive adaptadas a todos los dispositivos.</b> Desarrollamos webs amigables, frescas y fáciles de utilizar mejorando la interacción con el usuario,",
           "title2": "Social Media",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "La creación de las redes sociales ha marcado un antes y un después en la forma de acercarnos al mundo exterior. Esta transformación ha cambiado la manera tradicional de comunicarnos con nuestros clientes dejando atrás el puerta a puerta para comenzar a captar clientes potenciales a través de las redes sociales. <b>CAMPAÑAS EN REDES SOCIALES  PARA ATRAER NUEVOS CLIENTES</b> <b>SEO/SEM</b>",
+          "caption2": "La creación de las redes sociales ha marcado un antes y un después en la forma de acercarnos al mundo exterior. Esta transformación ha cambiado la manera tradicional de comunicarnos con nuestros clientes dejando atrás el puerta a puerta para comenzar a captar clientes potenciales a través de las redes sociales. <b>CAMPAÑAS EN REDES SOCIALES PARA ATRAER NUEVOS CLIENTES SEO/SEM.</b>",
           "title3": "Diseño Gráfico",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "La imagen de su empresa es fundamental ante sus clientes, nosotros nos encargamos de diseñar su imagen corporativa desde cero o la mejoramos. Logos, Dossier informativo de su empresa, Flyers, Catálogos, Dípticos, Tripticos y Tarjetas. Trabajamos con multinacionales que nos avalan.",
-          "title4": "Desarrollo &nbsp;APPS",
+          "title4": "Desarrollo  APPS",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Las Apps actualmente son el método más usado para interactuar con sus clientes.  <b>El 78% de las búsquedas de un negocio local desde un dispositivo móvil dan como resultado una compra.</b> Las comunicaciones y la tecnología avanzan, es ahora el momento de actualizarse y darle un plus a su empresa.",
+          "caption4": "Las Apps actualmente son el método más usado para interactuar con sus clientes. <b>El 78% de las búsquedas de un negocio local desde un dispositivo móvil dan como resultado una compra.</b> Las comunicaciones y la tecnología avanzan, es ahora el momento de actualizarse y darle un plus a su empresa.",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_name": "features7",
-          "_anchor": "features7-4"
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-b",
+          "_styles": {
+            "P": {
+              "color": "#484848"
+            },
+            "B": {
+              "color": "#484848"
+            },
+            "H4": {
+              "color": "#484848"
+            }
+          }
         },
         {
           "_inherit": "pricing-table1",
