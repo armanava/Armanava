@@ -22,7 +22,8 @@
       },
       "additionalSetColors": [
         "#484848",
-        "#8dc63f"
+        "#8dc63f",
+        "#838282"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -141,7 +142,7 @@
             "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2003-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/foto-1-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -151,11 +152,11 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0"
           },
           "title": "<span style=\"font-weight: normal;\">Desarrollamos sú</span>&nbsp;Página Web<br><span style=\"font-weight: normal;\">desde</span>&nbsp;€290 <span style=\"font-weight: normal;\">y</span>&nbsp;<span style=\"font-weight: normal;\">en sólo</span> 48 Horas",
           "text": "Haga que su empresa pase de invisible a visible!",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">LO QUIERO</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">ME INTERESA</a>",
           "_tags": [
             "Tema"
           ],
@@ -292,13 +293,13 @@
           "_anchor": "features3-b",
           "_styles": {
             "P": {
-              "color": "#484848"
+              "color": "#838282"
             },
             "B": {
-              "color": "#484848"
+              "color": "#838282"
             },
             "H4": {
-              "color": "#484848"
+              "color": "#838282"
             }
           }
         },
@@ -337,11 +338,11 @@
               "color": "#484848"
             },
             ".mbr-section__container .mbr-section-title": {
-              "color": "#484848",
+              "color": "#838282",
               "font-size": "36px"
             },
             ".mbr-section__container .mbr-section-subtitle": {
-              "color": "#484848"
+              "color": "#838282"
             },
             ".mbr-plan-price-desc B": {
               "font-size": "20px"
@@ -361,7 +362,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#cccccc",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -420,11 +421,11 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#484848",
+              "color": "#838282",
               "font-size": "36px"
             },
             ".mbr-section-subtitle": {
-              "color": "#484848"
+              "color": "#838282"
             }
           },
           "_params": {
@@ -462,7 +463,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/bike-small.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
+                "caption": "Desarrollo Web",
                 "active": true
               },
               {
@@ -474,7 +475,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/code-man-small.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Logotipos"
               },
               {
                 "tags": "Creative",
@@ -485,7 +486,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/coworkers-small.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Empaques"
               },
               {
                 "tags": "Animated",
@@ -496,7 +497,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/desktop-small.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Editorial"
               },
               {
                 "tags": "Awesome",
@@ -507,7 +508,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Impresos"
               },
               {
                 "tags": "Beautiful",
@@ -518,7 +519,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/table-small.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Franelas"
               },
               {
                 "tags": "Responsive",
@@ -529,7 +530,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/windows-books-small.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Empaques"
               },
               {
                 "tags": "Animated",
@@ -540,7 +541,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/working-area-small.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Flyers"
               }
             ]
           },
@@ -558,11 +559,11 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#484848",
+              "color": "#838282",
               "font-size": "36px"
             },
             ".mbr-section-subtitle": {
-              "color": "#484848"
+              "color": "#838282"
             }
           },
           "_params": {
@@ -690,13 +691,13 @@
           "_anchor": "features3-7",
           "_styles": {
             "H4": {
-              "color": "#484848"
+              "color": "#838282"
             },
             "H5": {
               "color": "#7c706b"
             },
             "P": {
-              "color": "#8e8e8e"
+              "color": "#838282"
             }
           }
         },
